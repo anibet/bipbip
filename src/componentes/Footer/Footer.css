@@ -1,0 +1,11 @@
+.footer {
+   display: flex;
+   justify-content: left;
+   margin: 80px 0;
+
+}
+
+.footer form{
+    max-width: 80%;
+    background-color: #000000;
+}
