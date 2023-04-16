@@ -1,5 +1,11 @@
+import "./CampoTexto.css"
+
 const CampoTexto = () => {
-    return <div>CampoTexto</div>
+    return <div className="campo-texto">
+        <label>Titulo</label>
+        <input placeholder="Titulo" />
+        
+    </div>
 }
 
 export default CampoTexto

@@ -1,11 +1,13 @@
 .footer {
    display: flex;
-   justify-content: left;
+   justify-content: center;
    margin: 80px 0;
+   background-color: black;
 
 }
 
 .footer form{
     max-width: 80%;
-    background-color: #000000;
+    background-color: #eaeef3;
+    padding: 8px 100px;
 }
